@@ -1,0 +1,6 @@
+Order ID,Product Name,Customer Name,Purchase Date,Amount
+101,Laptop,Alice,2023-09-01,1200
+102,Smartphone,Bob,2023-09-03,800
+103,Tablet,Charles,2023-09-05,400
+104,Laptop,Alice,2023-09-07,1200
+105,Tablet,David,2023-09-10,400
